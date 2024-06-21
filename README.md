@@ -1,4 +1,4 @@
-# IBM-Data Analyst Professional Certificate Coursera Quiz Answers
+# IBM Data Analyst Professional Certificate Coursera Quiz Answers
 
 01. [Introduction to Data Analytics](https://teamscloud.blogspot.com/2024/05/introduction-to-data-analytics.html)
 
